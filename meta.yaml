@@ -1,6 +1,6 @@
 apiVersion: v2
 name: code-server
-publisher: cdr
+publisher: mariam
 version: latest
 type: Che Editor
 displayName: code-server
