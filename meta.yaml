@@ -1,6 +1,6 @@
 apiVersion: v2
 
-"publisher": "cdr"
+publisher: cdr
 
 name: code-server
 version: latest
