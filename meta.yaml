@@ -1,8 +1,6 @@
 apiVersion: v2
-
-publisher: cdr
-
 name: code-server
+publisher: cdr
 version: latest
 type: Che Editor
 displayName: code-server
